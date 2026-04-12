@@ -16,3 +16,7 @@
 - 😄 Pronouns: he/him
 
 ---
+
+### 📊 GitHub Stats
+
+![Mahesh's stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAHESHPPAI&theme=github_dark)
