@@ -14,5 +14,5 @@
 
 ### 📊 GitHub Stats
 
-![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAHESHPPAI&show_icons=true&theme=dark&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=MAHESHPPAI&theme=dark)
 
