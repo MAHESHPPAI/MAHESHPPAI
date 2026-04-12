@@ -14,5 +14,5 @@
 
 ### 📊 GitHub Stats
 
-![Mahesh's stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAHESHPPAI&theme=github_dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MAHESHPPAI&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/MAHESHPPAI)
 
