@@ -6,7 +6,7 @@
 - 🌱 Currently learning **Agentic Workflows** and **DevOps** practices
 - 👯 Open to collaborate on **Agentic software development** projects
 - 💬 Ask me about **AI-based development** — LLMs, agents, automation pipelines
-- 📫 Reach me at: [maheshpai200424@gmail.com](mailto:maheshpai200424@gmail.com)
+- 📫 Reach me at: [maheshpailinked@gmail.com](mailto:maheshpailinked@gmail.com)
 - 😄 Pronouns: he/him
 
 ---
