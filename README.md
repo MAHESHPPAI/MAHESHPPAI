@@ -14,5 +14,5 @@
 
 ### 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MAHESHPPAI&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/MAHESHPPAI)
+![GitHub Stats](https://github-readme-stats-rouge-ten-78.vercel.app/api?username=maheshppai&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false)
 
