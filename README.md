@@ -10,9 +10,3 @@
 - 😄 Pronouns: he/him
 
 ---
-
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-rouge-ten-78.vercel.app/api?username=maheshppai&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false)
-
