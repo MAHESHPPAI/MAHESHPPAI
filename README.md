@@ -14,5 +14,5 @@
 
 ### 📊 GitHub Stats
 
-[![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAHESHPPAI)](https://github.com/MAHESHPPAI)
+![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAHESHPPAI&show_icons=true&theme=dark&count_private=true)
 
