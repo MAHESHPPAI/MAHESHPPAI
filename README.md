@@ -1,12 +1,10 @@
 <p align="center">
-  ![github_readme](https://github.com/user-attachments/assets/e2d3f758-1950-47bb-9b7f-eb613ba4bd60)
-
+  <img src="https://github.com/user-attachments/assets/e2d3f758-1950-47bb-9b7f-eb613ba4bd60" alt="github_readme" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MAHESHPPAI&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
 
 <h1 align="center">Hi there, I'm Mahesh 👋</h1>
 
