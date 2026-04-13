@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Hi animation" />
+  ![github_readme](https://github.com/user-attachments/assets/e2d3f758-1950-47bb-9b7f-eb613ba4bd60)
+
 </p>
 
 <p align="center">
