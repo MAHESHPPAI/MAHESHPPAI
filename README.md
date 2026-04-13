@@ -17,7 +17,6 @@
 - 👯 Open to collaborate on **Agentic Software Development**
 - 💬 Ask me about **AI Development** — LLMs, Agents, Automation Pipelines
 - 📫 Reach me at: **maheshpailinked@gmail.com**
-- 😄 Pronouns: he/him
 
 ---
 
