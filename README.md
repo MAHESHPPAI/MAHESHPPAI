@@ -15,7 +15,7 @@
 
 - 🔭 Currently building **Scorebooster AI**
 - 🌱 Currently learning **Agentic Workflows** and **DevOps**
-- 👯 Open to collaborate on **Agentic Software Development**
+- 👯 Open to collaborate on **Agentic workflows**
 - 💬 Ask me about **AI Development** — LLMs, Agents, Automation Pipelines
 - 📫 Reach me at: **maheshpailinked@gmail.com**
 
